@@ -1,7 +1,7 @@
 # batch-code
 
 ## Build Image
-``
+```
 cd app
 // Build the image named batch with v1 tag
 docker build --tag batch:v1 .
